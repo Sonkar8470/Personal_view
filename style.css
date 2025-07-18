@@ -270,8 +270,8 @@ color: #081b29;
 .home-imgHover{
     position: absolute;
     top: 0;
-    right: 30px;
-    width: 500px;
+    right: 0px;
+    width: 700px;
     height: 100%;
     background: transparent;
     /* border: 2px solid red; */
